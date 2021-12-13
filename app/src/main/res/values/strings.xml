@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">KKDay</string>
+
+    <string name="success">成功</string>
+    <string name="edit_link_hint">shorten&#160;a&#160;link&#160;here&#160;…</string>
+    <string name="shorten_it">SHORTEN&#160;IT</string>
+    <string name="kk_day">kkday</string>
+    <string name="home_instruction_1">Let\'s&#160;get&#160;started！</string>
+    <string name="home_instruction_2">Paste&#160;your&#160;first&#160;link&#160;into\n&#160;field&#160;to&#160;shorten&#160;it</string>
+    <string name="your_history">Your&#160;History</string>
+    <string name="copy">COPY</string>
+    <string name="please_add_a_link_here">please&#160;add&#160;a&#160;link&#160;here</string>
+    <string name="input_error">輸入錯誤！</string>
+    <string name="copy_success">已複製！</string>
 </resources>
